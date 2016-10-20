@@ -1,0 +1,14 @@
+{
+	"appname": "SPA Weir",
+	"scope": "BuyerAdmin BuyerReader FullAccess",
+	"clientid": "53AD153C-8294-41A0-9AAF-68F8BE9FE9B4",
+	"buyerid": null,
+	"environment": "prod",
+	"anonymous": false,
+	"base": {
+		"left": true,
+		"right": false,
+		"top": true,
+		"bottom": false
+	}
+}
